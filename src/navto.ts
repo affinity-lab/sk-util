@@ -1,0 +1,1 @@
+export default function navto(url: string): void { document.location.href = url;}
